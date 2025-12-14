@@ -7,4 +7,4 @@ This is a stateful SQL Agent that:
 - Handles errors and retries using LangGraph control flow
 - Exposes the agent via a FastAPI REST API
 ## High level Flow 
-	![Alt text](flow.png)
+![Alt text](flow.png)
